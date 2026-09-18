@@ -1,0 +1,5 @@
+# app-ads.txt — Womp Studio apps (Fish Kingdom: Aquarium Defense, com.fishkingdom.game)
+# Authorized Sellers for Apps file. Crawlers fetch it from the root of the
+# developer-website domain listed on the Play store listing, and only there.
+# Format per https://developers.google.com/admob/android/app-ads
+google.com, pub-5273440824547124, DIRECT, f08c47fec0942fa0
